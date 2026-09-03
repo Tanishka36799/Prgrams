@@ -24,4 +24,5 @@ int main()
     a=b;
     b=c;
     printf("After swap: %d, %d", a, b);
+    return 0;
 }
