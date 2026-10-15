@@ -45,7 +45,7 @@ int main()
             amt = amt*(1+(r/100.0));
             }
             ci = amt-p;
-            printf("Simple Interest= %.1f, Compound Interest= %.2f", si, ci);
+            printf("Simple Interest= %.2f, Compound Interest= %.2f", si, ci);
             return 0;
         }
     }
